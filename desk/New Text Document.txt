@@ -1,0 +1,9 @@
+HKUSTx: COMP102.1x Introduction to Java Programming - Part 1
+Data abstraction separates what are the essential properties of data objects from the details of how they are implemented,
+
+data abstraction : that is, the implementation details of data objects are hidden from the users
+
+When you use apps on smartphones, say an iPhone,
+you need to know only what the apps are supposed to do but you don't really care how they were actually implemented
+
+In general, a computer is an electronic device which operates under the control of instructions (or programs) stored in its memory unit.

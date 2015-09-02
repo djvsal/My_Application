@@ -1,0 +1,74 @@
+public class Loop{                                                  
+  int multiply(int x ,int y)
+  {
+      return x*y;
+  }
+    int divide(int x,int y)
+    {
+        return x/y;
+    }
+} 
+
+  public class Loop1 {
+    public static void main(String[] args){          
+        Loop1 calc=new Loop1();
+        System.out.println(calc.multiply(5, 10));
+        System.out.println(calc.divide(5, 10));
+        
+    }
+}
+
+In this section we will look at how we can use objects to access methods from other classes. This allows us to render the Ball and Paddles to the screen and also allows the Ball and Paddle to interact.
+
+The Ball class represents the bouncing ball for our Pong game. This class will contain the logic that allows the ball to bounce around the arena and collide with the paddles and walls. We will also make sure we keep track of the ball's position so we can judge when the ball should score a point for either player. The x and y variables will represent the position of the ball at any given time. We will use these two variables to calculate where the ball is and whether or not it is colliding with the walls or paddles. We will add a default value for x and y so that we can see the ball rendered to the screen ; this value will be changed later in the Methods section. xVel and yVel will represent the velocity of the ball at any given time. xVel will be added to x and yVel will be added to y every in-game frame. Adding the velocity to the coordinate will move the ball in the given direction. arenaWidth and arenaHeight represent the width and height of the game screen. We need these variables so we can tell if our x and y hit the walls of the arena. ballDiameter is the diameter of the in-game ball. Using this variable, we can make the ball bigger or smaller. Finally, ballColor represents the color of the ball. You can customize this if you want by simply initialising the variable to Color.*insert any colour name here*.
+
+Find the render method in the Ball class. We can see that the render method has Graphics2D as its parameter. We can access Graphics2D using its declared variable name g. We only need to add two lines of code to render the ball; we need to set the colour that the ball is rendered with (we already made a variable for that called ballColor) and then we need to render a circle using the x, y and ballDiameter variables. Here is what you have to do:
+
+Call Graphics2D's method setColor and pass in ballColor as a parameter.
+Call Graphics2D's method fillOval and pass in these four parameters in order:
+x minus the ball's radius (remember to cast this result to an int)
+y minus the ball's radius (remember to cast this result to an int)
+ballDiameter
+The reason why we pass in ballDiameter twice is because the fillOval method takes a width and a height as the last two parameters; so to make a perfect circle we just set the width and height equal to the same thing, ballDiameter.
+
+Examples:
+
+// Calling a method from an object
+obj.method();
+obj.anotherMethod(param1, param2);
+
+// Casting variables to other variables
+int a = (int)(1.234 + 394.5);
+
+    /* Spoiler */
+
+    public void render(Graphics2D g) {
+    g.setColor(ballColor);
+    g.fillOval((int) (x - radius()), (int) (y - radius()), ballDiameter, ballDiameter);
+    }
+/*Spoiler*/
+            
+Find the render method in the Paddle class and we're going to do something very similar. Here is what you have to do:
+
+Call Graphics2D's method setColor and pass in paddleColor as a parameter.
+Call Graphics2D's method fillRect and pass in these four parameters in order:
+x minus (paddleWidth divided by 2) (remember to cast this result to an int)
+y minus (paddleHeight divided by 2) (remember to cast this result to an int)
+paddleWidth
+paddleHeight
+Examples:
+
+// Calling a method from an object
+obj.method();
+obj.anotherMethod(param1, param2);
+
+// Casting variables to other variables
+int a = (int)(1.234 + 394.5);
+
+    /* Spoiler */
+
+    g.setColor(paddleColor);
+    g.fillRect((int) (x - (paddleWidth / 2)), (int) (y - (paddleHeight / 2)), paddleWidth, paddleHeight);
+/*Spoiler*/
+            
+You should be able to see the Ball and a Paddle rendered to the screen! Our Pong game is coming along nicely, but we need to actually add the game logic; make the ball and paddle move etc.

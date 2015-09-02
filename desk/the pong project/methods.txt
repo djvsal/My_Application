@@ -1,0 +1,155 @@
+https://knowband-asset-bucket.s3.amazonaws.com/java/Methods%20Final.mp4
+
+Now that we understand the concept of methods we can start creating them for each of our classes. The methods are all already laid out for you, all we have to do now is fill them with the code required to run our game! The tables provided will state the name of the method in the left column and in the right column there will be a list of commands we need the method to do. Some of the methods are filled in by default with `return 0` simply delete this line and proceed. In case you haven't seen the keyword this before, it refers to the global variables in your class. For example, if you had a local and a global variable called x, the local variable would take priority. To tell Java that we want to use the global version of that variable we can type this. before the variable x. Remember if you get stuck you can reveal the answer in the right-hand code section
+
+The Ball class will consist of a constructor to initialise the position of the ball and set some essential variables that are passed in via the constructor. There will be several getter methods that will return the values of important Ball variables and there will be flip methods that control the velocity of the ball. There will also be the standard update and render methods that will update the ball's positioning every game frame and render the ball to the screen. Finally there will be a helper method that allows us to quickly grab the radius of the ball ` this is useful so we can render the ball correctly to the screen by making sure it is centred on the x and y coordinates.
+
+Method Name	Functionality
+Ball	
+Set y equal to height divided by 2.
+Set arenaWidth equal to width.
+Set arenaHeight equal to height.
+Set this xVel equal to xVel.
+Set this yVel equal to yVel.
+getX	Return the variable x.
+getY	Return the variable y.
+getXVelocity	Return the variable xVel.
+getYVelocity	Return the variable yVel.
+flipXVelocity	Set xVel equal to xVel multiplied by -1.
+flipYVelocity	Set yVel equal to yVel multiplied by -1.
+update	
+Set x equal to x plus xVel.
+Set y equal to y plus yVel.
+radius	Return the result of ballDiameter divided by 2.
+Examples:
+
+// Set a variable
+int newVar = 10;
+existingVar = anotherVar / 2;
+
+// Return a value from a method
+public int getInt() {
+    return intVariable;
+}
+
+public int getAnotherInt() {
+    return var * 10;
+}
+
+    /* Spoiler */
+
+    public Ball(int width, int height, float xVel, float yVel) {
+    x = (width / 2);
+    y = (height / 2);
+
+    arenaWidth = width;
+    arenaHeight = height;
+    this.xVel = xVel;
+    this.yVel = yVel;
+    }
+
+    public float getX() {
+    return x;
+    }
+
+    public float getY() {
+    return y;
+    }
+
+    public float getXVelocity() {
+    return xVel;
+    }
+
+    public float getYVelocity() {
+    return yVel;
+    }
+
+    public void flipXVelocity() {
+    xVel *= -1;
+    }
+
+    public void flipYVelocity() {
+    yVel *= -1;
+    }
+
+    public void update() {
+    x += xVel;
+    y += yVel;
+
+    if(x > arenaWidth || x < 0) {
+    flipXVelocity();
+    }
+    }
+
+    public int radius() {
+    return ballDiameter / 2;
+    }
+/*Spoiler*/
+            
+The Paddle class consists of a constructor that receives values in order to set values required for the Paddle to work. There are some getter methods so that other classes can access its variables. There are left, right and stop methods that make the Paddle move left, right and stop. There is also a score method that adds score if this paddle scores. Finally, the update and render method update the Paddles logic and renders it to the screen.
+
+stop	Set xVel equal to 0. left	Set xVel equal to -speed. right	Set xVel equal to speed.
+Method Name	Functionality
+Paddle	
+Set this y equal to y.
+Set this arenaWidth equal to arenaWidth.
+Set this arenaHeight equal to arenaHeight.
+Set this paddleColor equal to paddleColor.
+Set this ball equal to ball.
+getX	Return the variable x.
+getScore	Return the variable score.
+score	Add 1 to the variable score.
+stop	Set xVel equal to 0.
+left	Set xVel equal to -speed.
+right	Set xVel equal to speed.
+Examples:
+
+// Set a variable
+int newVar = 10;
+existingVar = anotherVar / 2;
+
+// Return a value from a method
+public int getInt() {
+    return intVariable;
+}
+
+public int getAnotherInt() {
+    return var * 10;
+}
+
+    /* Spoiler */
+
+    public Paddle(int arenaWidth, int arenaHeight, int y, Color paddleColor, Ball ball) {
+    x = (arenaWidth / 2);
+
+    this.y = y;
+    this.arenaWidth = arenaWidth;
+    this.arenaHeight = arenaHeight;
+    this.paddleColor = paddleColor;
+    this.ball = ball;
+    }
+
+    public float getXVel() {
+    return xVel;
+    }
+
+    public int getScore() {
+    return score;
+    }
+
+    public void score() {
+    score++;
+    }
+
+    public void stop() {
+    xVel = 0;
+    }
+
+    public void left() {
+    xVel = -speed;
+    }
+
+    public void right() {
+    xVel = speed;
+    }
+/*Spoiler*/

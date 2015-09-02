@@ -1,0 +1,1015 @@
+   Course Title: Data Warehousing and Data Mining
+
+Course no: CSC- 451                                                                                            Full Marks: 60+20+20
+Credit hours: 3                                                                                                        Pass Marks: 24+8+8
+
+Nature of course: Theory (3 Hrs.) + Lab (3 Hrs.)
+
+Course Synopsis:   Analysis of advanced aspect of data warehousing and data mining.
+
+Goal: This course introduces advanced aspects of data warehousing and data mining,           encompassing the principles, research results and
+
+commercial application of the current           technologies
+
+Course Contents:
+
+Unit- 1                                                                                                                         5 Hrs.           
+Concepts of Data Warehouse and Data Mining including its functionalities, stages of Knowledge discovery  in database(KDD) , Setting up a KDD
+
+environment, Issues in Data Warehouse and Data Mining, Application of Data Warehouse and Data Mining
+
+Unit-2                                                                                                                         4 Hrs.
+DBMS vs. Data Warehouse, Data marts, Metadata, Multidimensional data model, Data Cubes, Schemas for Multidimensional Database: Stars,
+
+Snowflakes and Fact Constellations.
+
+Unit- 3                                                                                                                        6 Hrs.
+Data Warehouse Architecture, Distributed and Virtual Data Warehouse, Data Warehouse Manager, OLTP, OLAP, MOLAP, HOLAP, types of
+
+OLAP, servers.
+
+Unit- 4                                                                                                                            4 Hrs.
+Computation of Data Cubes, modeling: OLAP data, OLAP queries, Data Warehouse back end tools, tuning and testing of Data Warehouse.
+
+Unit- 5                                                                                                                                    4Hrs.
+Data Mining definition and Task, KDD versus Data Mining, Data Mining techniques, tools and application.
+
+Unit- 6                                                                                                                               5Hrs.
+Data mining query languages, data specification, specifying knowledge, hierarchy specification, pattern presentation & visualization
+
+specification, data mining languages and standardization of data mining.
+
+Unit- 7                                                                                                                                      6 Hrs.
+Mining Association Rules in Large Databases: Association Rule Mining, why Association Mining is necessary, Pros and Cons of Association Rules,
+
+Apriori Algorithm.
+
+
+Unit- 8                                                                                                                                     7 Hrs.
+Classification and Prediction: Issues Regarding Classification and Prediction, Classification by Decision Tree Induction, Introduction to
+
+Regression, Types of Regression, Introduction to clustering, K-mean and K-Mediod Algorithms.
+
+Unit- 9                                                                                                                           4 Hrs.
+Mining Complex Types of Data: Mining Text Databases, Mining the World Wide Web, Mining Multimedia and Spatial Databases.
+
+
+Laboratory Works:  Cover all the concept of datawarehouse and mining mention in a course
+
+Samples
+1. Creating a simple data warehouse
+2. OLAP operations: Roll Up, Drill Down, Slice, Dice through SQL- Server
+3. Concepts of data cleaning and preparing for operation
+4. Association rule mining though data mining tools
+5. Data Classification through data mining tools
+6. Clustering through data mining tools
+7. Data visualization through data mining tools
+
+Reference books:
+1.      Data Mining Concepts and Techniques, Morgan Kaufmann J. Han, M Kamber Second Edition ISBN: 978-1-55860-901-3
+2.      Data Warehousing in the Real World – Sam Anahory and Dennis Murray, Pearson Edition Asia.
+3.      Data Mining Techniques – Arun K Pujari, University Press.
+4.      Data Mining- Pieter Adriaans, DolfZantinge
+5.      Data Mining, Alex Berson,StephenSmith,KorthTheorling,TMH.
+6.      Data Mining, Adriaans, Addison-Wesley Longman.
+
+
+
+                                  Course Title: Internship
+
+Course no: CSC-452                                                                                       Full Marks: 200
+Credit hours: 6                                                                                                 Pass Marks: 80
+
+Nature of course: Project
+
+ Course Synopsis
+
+The students are required to complete a six credit (minimum ten weeks/180 hour long) internship as a part of the course requirement. Industry
+
+is a crucial requirement of the Internship course and this will have to be secured before getting started with the course. The work that the
+
+students perform during the Internship will have to be supervised by the faculty members as well as by representatives from the participating
+
+Industries. The internship experience is expected to enable the students to assist in the resolution of complex problem associated with
+
+Database systems.
+
+At the end of the Internship, the student(s) are required to write a report on their internship work. Such a report needs to be structured
+
+according to the prescribed format. The Report forms a major aspect of the evaluation of the Internship work. 
+
+Goal
+
+Main goal is to assist students in focusing their interests, thus aiding in their professional carrier. It gives students the opportunity to re-
+
+examine their career objectives and explore the variety of opportunities in the field of computer networking.
+
+Preparation
+Students, the advisors, and the industry/organization, with which the student team is affiliated, will have to agree on a problem that needs to
+
+be addressed during the internship. An internship is designed by the advisor and the student according to mutual interests, needs and
+
+availability of related industry/organization. To develop a rewarding program, at the beginning of the internship, the advisor and student are
+
+asked to establish an internship plan, in the form of written objectives and goals, and to develop a strategy for attaining those goals. The plan
+
+may include a schedule of activities that need to be carried out in order to reach a solution for the problem being addressed. The internship plan
+
+is not intended to be rigid. Advisor may be unable to assess certain responsibilities until the student demonstrates his or her ability. The plan
+
+should be flexible and subject to revision. The advisor and student should assess the student's progress throughout the term of the internship
+
+both to evaluate the student's performance, and to establish new directions as needed.
+
+Role of the Advisor
+
+Advisors are expected to share their experience, insight, and enthusiasm with the student throughout the internship. They should continually
+
+monitor the progress of the student, assessing written and oral communications and guiding the development of the student's technical and
+
+managerial skills, effectiveness and presentation of self. Advisors are expected to submit a post-internship evaluation of the student's
+
+accomplishments and abilities and of the internship program in general.
+
+Role of the Student
+
+
+In order for the internship to be a mutually beneficial experience, a student should begin with a definition of his/her objectives and specific
+
+interests for the minimum of 10-week/180 hour period to ensure that appropriate activities and projects are selected by the advisor and the
+
+student. The student will be responsible for the timely completion and professional quality of all activities and projects assigned. The student is
+
+expected to speak frequently with the advisor on his/her progress and interest in other projects, as well as to discuss observations and
+
+questions about meetings, projects and other activities with which he/she is involved.
+
+
+The student is required to submit to Advisor, within the first two weeks of the internship, a brief plan for the internship.
+
+
+Internship Group Size and document preparation
+
+
+?  Each group must be of maximum 4 Students
+
+
+?  Each student should prepare Individual document on the basis of his/her part in the group project.
+
+
+?  Supervisors must be assigned to each group
+
+
+Domain/Scope of Internship (Project Implementation /Research)
+
+            -Bank
+
+            -Hospitals
+
+            -Software Companies
+
+            -NTC, Ncell and other Telecommunication Sectors
+
+           -Government Organizations (IT Related) etc
+
+ Report Format
+
+ APA Format
+
+Tentative Contents of Report
+
+
+-          Abstract
+
+ -          Introduction  (organization +Work Done )
+
+
+-          Statement of the problem and Objective
+
+
+-          Literature Review and methodology (Optional)
+
+
+-          System Analysis
+
+
+-          System Design
+
+
+-          Implementation
+
+-          System Testing
+
+
+-          Limitation/future enhancement
+
+
+-          Conclusion
+
+
+-          References and Bibliography
+
+
+Evaluation Criteria
+
+
+Proposal Defense : 10% weight {Evaluated by Supervisor and Mentor}
+
+
+            Mid-Term : 30% weight {Evaluated by Supervisor and Mentor}
+
+
+            End-Term : 60% weight.
+
+
+Proposal Defese (At beginning of the internship)
+
+
+-          Topic  Selection with Proposal (5 of total)
+
+
+-          Presentation (5% of total).
+
+
+Mid-Term (After 2 month)
+
+-          Program Design (10% of total)
+-          Demo Presentation (10% of total).
+ -          Viva (10% of total)
+
+
+End-Term (After Completion of internship and before final Exam)
+
+-          Depth of work (15% of total)
+
+ -          Report (25% of total)
+
+-          Viva (10% of total)
+
+-          Presentation (10%  of total)
+
+ Note: External examiner assigned from TU will be present in final presentation. External Examiner along with Supervisors, Mentor will evaluate
+
+internship of students.  Proportion of the marks will be same for all evaluators.
+
+
+
+
+                  Course Title: Advanced Networking with IPv6
+
+ Course no: CSC-453                                                                              Full Marks: 60+20+20
+ Credit hours: 3                                                                                        Pass Marks: 24+8+8
+
+Nature of course: Theory (3 Hrs.) + Lab (3 Hrs.)
+
+Course Synopsis: Study of Advanced Networking with IPv6
+
+ Goal:  The course covers about: principles underlying IPv6 Network Design; Internet             routing protocols (unicast, multicast and
+
+unidirectional) with IPv6; algorithmic issues related to the Internet; IPv6 Migration; measurement and performance; next generation Internet
+
+(IPv6, QoS) and applications.
+
+Course Contents:
+
+
+1        Networking Protocols                                                                                         6Hrs.
+1.1  OSI Model
+1.2  Internet IP/UDP/TCP
+1.3  Routing in the Internet & CIDR
+1.4  Multicasting
+1.5  Unidirectional Link Routing
+
+
+2        Next Generation Internet                                                                                   8Hrs.
+2.1  Internet Protocol Version 6 (IPv6)
+2.2  History of IPv6
+2.3  IPv6 Header Format
+2.4  Feature of IPv6
+2.5  International trends and standards
+2.6  IPv6Addressing (Unicast, Anycast & Multicast)
+
+3        ICMPv6 and Neighbor Discovery                                                                     6Hrs.
+3.1  ICMPv6 General Message Format
+3.2  ICMP Error and Information Message Types
+3.3  Neighbor Discovery Processes and Messages
+3.4  Path MTU Discovery
+3.5  MLD overview
+
+4        Security and Quality of Service in IPv6                                                            6Hrs.
+4.1  Types of Threats
+4.2  Security Techniques
+4.3  IPSEC Framework
+4.4  QoS Paradigms
+4.5  QoS in IPv6 Protocols
+
+5        IPv6 Routing                                                                                                       4Hrs.
+5.1  RIPng
+5.2  OSPF for IPv6
+5.3  BGP extensions for IPv6
+5.4  PIM-SM & DVMRP for IPv6
+
+6        IPv4/IPv6 Transition Mechanisms                                                                    8Hrs.
+6.1  Migration Strategies
+6.2  Tunneling
+
+6.2.1        Automatic Tunneling
+6.2.2        Configured tunneling
+
+6.3  Dual Stack
+6.4  Translation
+6.4.1        NAT-PT
+
+7        IPv6 Network and Server Deployment                                                             7Hrs.
+
+7.1  IPv6 Network Configuration in Linux and Windows Machines
+7.2  IPv6 enabled WEB/PROXY/DNS/MAIL Server Configuration
+7.3  IPv6 Deployment: Challenges and Risks
+7.4  IPv6 and the NGN
+
+
+Laboratory work: For the lab work, one PC to one student either in virtual environment or
+                                real environment will be provided. Students will be divided into group
+                                of 3 students. The working environment and machine connectivity will
+                                look like the following:
+
+
+Tools Needed: TCPDUMP & WIRESHARK, VMWare Environment, Linux/FreeBSD, Windows
+
+
+Lab 1: Enable IPv6 in Windows/Linux
+
+Lab 2: IPv6 Header Analysis
+
+
+Lab 3: IPv6 Packet analysis (neighbor/router solicitation/discovery)
+
+Lab 4: Unicast Routing Implementation using Zebra-OSPF & OSPF phase analysis
+
+Lab 5: Multicast Routing Implementation using XORP-PIM/SM & PIM/SM phase analysis
+
+Lab 6: IPv6 DNS/WEB/Proxy implementation & test
+
+Lab 7: Case Study
+
+Reference Book:
+
+    Silvia Hagen: IPv6 Essentials, O’reilly
+    Joseph Davies: Understanding IPv6; eastern economy edition
+    J. F. Kurose and K. W. Ross: Computer Networking - A Top-Down Approach Featuring the      Internet, Addison-Wesley, 2000.
+    S. A. Thomas: IPng and the TCP/IP Protocols, Wiley, 1995
+    O. Hersent, D. Gurle, J.-P. Petit: IP Telephony, Addison-Wesley, 2000.
+    Lecture Notes and Related RFCs
+
+ Prerequisite: Networking & Communications Fundamentals
+
+
+
+                         Course Title: Distributed Networking
+
+
+Course no: CSC-454                                                                                           FullMarks: 60+20+20
+Credit hours: 3                                                                                                     Pass Marks: 24+8+8
+
+Nature of course: Theory (3 Hrs.) + Lab (3 Hrs.)
+
+Course Synopsis:  Design and development of distributed networking system.
+
+Goal:   The course covers about: the function and structure of communications sub-nets,             network architectures and their protocols,
+
+approaches to the organisation of sub-nets and their architectures, processes of network and protocol design, role of network standards and
+
+their relationship to products, Network OS, Distributed Object Network and advance applications.
+
+Course contents:
+
+
+
+Unit 1:                                                                                                                  8Hrs
+Protocols-functions, design, implementation and testing, Architectures, Standards and Protocols-TCP OSI/IP, connectionless and connection-
+
+oriented protocols, protocol stacks, Internetworking-bridges and routers, Internet design and evolution.
+
+Unit 2:                                                                                                                 8Hrs
+Network Design, Performance, Operation and Management-architecture, interoperability and open systems issues, Introduction to Distributed
+
+Systems-client/server model, workstations.
+
+Unit 3:                                                                                                                 8Hrs
+Inter-process Communication: API for Internet protocols, External data representation and Marshalling, Client server architecture, Peer-to-
+
+peer architecture, Client-Server communication and Group communication
+
+Unit 4:                                                                                                                   8Hrs
+Distributed Objects and Remote Invocation: Communication between distributed objects, Remote Procedure Call, Remote Object Invocation,
+
+Message- and Stream-oriented communication, Distributed Web-Based Systems, Common Carrier Services
+
+
+Unit 5:                                                                                                                    8hrs
+Distributed OS: network operating systems, Distributed File systems, Distributed synchronization, Distributed object-based systems, Fault
+
+Tolerant Computing Systems.
+
+Unit 6:                                                                                                                    5hrs
+Advance Application: Grid Computing and Application, virtualization and cloud computing
+
+
+Laboratory: the laboratories include the installation and configuration of Distributed (network) OS, implementation of Distributed Web based
+
+systems, RMI and RPC programming and implementation with JAVA and conceptualization of grid and cloud applications.
+
+
+Reference Books:
+
+
+1. Comer DE, (1995), Internet working with TCP/IP Vol. 1, 3e, Prentice-Hall.
+2. Hagit Attiya, Jennifer Welch, Distributed Computing: Fundamentals, Simulations, and    
+    Advanced Topics, 2nd Edition, March 2004
+3. Distributed Systems: Principles and Paradigms - Andrew Tanenbaum and Maarten van 
+    Steen, Prentice Hall, 2007
+
+
+Prerequisite: Networking and Communications Fundamentals
+
+
+
+
+                              Course Title: Network Security
+
+Course no: CSC-455                                                                                              Full Marks: 60+20+20
+Credit hours: 3                                                                                                         Pass Marks: 24+8+8
+
+Nature of course: Theory (3 Hrs.) + Lab (3 Hrs.)
+
+Course Synopsis: Study of different network security concepts and methods
+
+
+Goal: In this age of universal electronic connectivity, viruses and hackers, electronic eavesdropping, and electronic fraud, security is paramount.
+
+This course provides a practical survey of the principles and practice of network security.
+
+
+Course Contents:
+
+
+1.      Introduction                                                                                            6hrs.
+1.1       Computer Security Concepts
+1.2       The OSI Security Architecture
+1.3       Security Attacks
+1.4       Security Services
+1.5       Security Mechanisms
+1.6       A Model for Network Security
+  
+2.      Key Management and Distribution                                                            5Hrs.
+2.1       Symmetric Key Distribution Using Symmetric Encryption
+2.2       Symmetric Key Distribution Using Asymmetric Encryption
+2.3       Distribution of Public Keys
+2.4       X.509 Certicates
+2.5       Public Key Infrastructure
+
+
+3.      User Authentication Protocols                                                                            6Hrs.
+3.1       Remote User Authentication Principles
+3.2   Remote User Authentication Using Symmetric Encryption
+3.3       Kerberos
+3.4       Remote User Authentication Using Asymmetric Encryption
+3.5       Federated Identity Management
+
+4.      Transport-Level Security                                                                          6Hrs.
+4.1       Web Security Issues
+4.2       Secure Sockets Layer (SSL)
+4.3       Transport Layer Security (TLS)
+4.4       HTTPS
+4.5       Secure Shell (SSH)
+
+
+5.      Wireless Network Security                                                                           7Hrs.
+5.1       IEEE 802.11 Wireless LAN Overview
+5.2       IEEE 802.11i Wireless LAN Security
+5.3       Wireless Application Protocol Overview
+5.4       Wireless Transport Layer Security
+5.5       WAP End-to-End Security
+
+6.      Electronic Mail Security                                                                               3Hrs.
+6.1       Pretty Good Privacy (PGP)
+6.2       S/MIME
+6.3       DomainKeys Identified Mail (DKIM)
+
+
+7.      IP Security                                                                                                     8Hrs.
+7.1       IP Security Overview
+7.2       IP Security Policy
+7.3       Encapsulating Security Payload
+7.4       Combining Security Associations
+7.5       Internet Key Exchange
+7.6       Cryptographic Suites
+
+8.      Cyber Security Overview                                                                             4Hrs.
+
+Laboratory Work: All the features covered in this syllabus.
+
+Reference Book:
+
+Cryptography and Network Security: Principles and Practice, 5/E,William Stallings, ISBN-10: 0136097049, Prentice Hall, India Limited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              Course Title: Multimedia Database
+
+Course No: CSC-456
+Credit hours  : 3
+
+
+Nature of course: Theory (3 Hrs.) + Lab (3 Hrs.)
+
+
+Course Synopsis: Advanced aspects of multimedia database, indexing and retrieval
+
+
+Goal: To study advanced aspects of indexing, storage device, retrieval of multimedia information encompassing the principles, research results
+
+and commercial application of the current technologies.
+
+
+
+Course Contents:
+
+Unit 1:    Multimedia introduction                                                                                        3 Hrs
+Introduction to multimedia databases, issues related to multimedia data types, media types, text document information retrieval, indexing
+
+Unit 2:    Multimedia Data types and formats                                                                     3 Hrs
+Text, vector graphics and animation, digital images and digital video, major characteristics and requirements of multimedia data and applications
+
+
+Unit 3:   Multimedia database design issues                                                                        2 Hrs
+MIRS architecture, data models and user interface, User Interface design and feature Extraction,
+Indexing and similarity measure
+
+
+Unit 4:    Text Document Indexing and retrieval                                                                 5 Hrs  
+Automatic text document indexing and Boolean Retrieval model, Vector space retrieval model, probabilistic model and cluster-based retrieval
+
+model, Nontraditional IR methods, Performance measurement, WWW search engines
+
+
+Unit 5:   Indexing and retrieval of audio                                                                              2 Hrs
+Audio properties and classification, Speech recognition and retrieval, Music indexing and retrieval
+
+Unit 6:  Image Indexing and retrieval                                                                                  5 Hrs    
+Colour –based image indexing and retrieval techniques, Image retrieval based on shape, on texture, Compressed image data, integrated image
+
+indexing
+
+
+Unit 7 :  Multimedia Indexing  and retrieval                                                                       5 Hrs
+Video shot detection or segmentation, video indexing and retrieval, Video representation and abstraction, Architecture of multimedia
+
+Information Management, user interface with example
+
+
+Unit 8: Techniques and data structures for efficient multimedia similarity search        5 Hrs
+Filter process, B+ and B trees, Clustering, Multidimensional B+ tree, K-d trees, Grid files, Tree family
+
+
+Unit 9:  System support for distributed multimedia databases                                         5 Hrs    
+QoS management, Design goals, Data storage devices and management, Data placement on disks, Disk scheduling and admission control, Server
+
+configuration and network connection
+
+Unit 10:   Multimedia computer architectures and operating system                               4 Hrs
+Process architectures, Computer architectures, Design issues of MOS, QoS support, Multimedia networks, Transport protocols, Synchronous
+
+presentation
+
+Unit 11 :  Measurement of multimedia information retrieval effectiveness                     3 Hrs
+Human Judgment data, Recall and precision pari, Percentage of Weighted Hits, Similarity Ranking, Factors affecting retrieval effectiveness
+
+Unit 12:  Products, application and new development                                                        3 Hrs
+Multimedia search engine, Digital libraries, Video –on-demand, Multimedia security, MPEG-7, Multimedia database applications
+
+
+Laboratory work: There should be labs related to Multimedia Database
+
+
+Reference books:
+1.      Gunjoun  Lu, Multimedia database management systems
+2.      G. Lu, Multimedia Database Management Systems, Artech House, 1999.
+3.      T. Shih, Distributed Multimedia Databases: Techniques and Applications, IRM Press, 2002.
+4.       V.S. Subrahmanian, Principles of Multimedia Database Systems, Morgan Kaufmann, 1998.
+
+
+
+
+Course Title: Distributed and Object Oriented Database                  
+
+
+Course no: CSC-457                                                                             Full Marks: 60+20+20
+Credit hours: 3                                                                                     Pass Marks: 24+8+8
+Nature of course: Theory (3 Hrs.) + Lab (3 Hrs.)
+
+Course Synopsis: Design and development of distributed and Object oriented database systems
+
+
+Goal:   This course introduces fundamental concept and implementation of object oriented and distributed database systems with focus on data
+
+distribution, query processing, transaction processing, concurrency control and recovery.
+
+Course Contents:
+
+
+Unit 1:                                                                                                                            12 hrs.
+1.1               Introduction to Distributed Database: Distributed Data Processing, Concept of Distributed Database.  Distributed vs Centralized
+
+Database System; advantages and Application. Transparency, performance and reliability. Problem areas of Distributed Database. Integrity
+
+Constraints in Distributed Databases.
+
+1.2               Distributed Database Architectures: DBMS standardization. Architectural models for Distributed DBMS – autonomy, distribution
+
+and heterogeneity. Distributed Database architecture – Client/Server, Peer-to-Peer distributed systems, MDBS Architecture. Distributed
+
+Catalog management.
+
+1.3              Distributed Database Design:  Design strategies and issues. Data Replication. Data Fragmentation – Horizontal, Vertical and Mixed.
+
+Resource allocation. Semantic Data Control in Distributed DBMS.
+
+
+Unit 2:                                                                                                                            17 hrs.
+
+ 2.1       Distributed Query Processing: Query Decomposition and Data localization for distributed data, join ordering, semi-join strategy,
+
+Distributed Queryoptimization methods.
+
+2.2       Distributed Transaction Management:  The concept and role of transaction. Properties of transactions-Atomicity, Consistency, Isolation
+
+and Durability. Architectural aspects of Distributed Transaction, Transaction Serialization.
+
+2.3        Distributed  Concurrency Control: Lock-based and Timestamp-based Concurrency Control methods. Optimistic method for Concurrency
+
+Control.  Deadlock  management- prevention, avoidance detection, and resolution. Non-serializable schedule and nested distributed transaction.
+
+2.4       Reliability of Distributed DBMS and Recovery:  Concept and measures of reliability, Failure analysis, types of failures. Distributed
+
+Reliability Protocols. Recovery techniques. Two Phase Commit , Presumed abort, Presumed commit. Three phase commit, Partitions,  Scalability of
+
+Replication.
+
+
+Unit 3:                                                                                                                                    16 hrs.
+
+3.1       Object Oriented Database Concept: Data types and Object, Evolution of Object Oriented Concepts, Characteristics of Object Oriented
+
+Data Model. Object Hierarchies - Generalization, Specialization, Aggregation. Object Schema. Inter-object Relationships, Similarities and
+
+difference between Object Oriented Database model and Other Data models.
+
+3.2       OODBMS Architecture Approach: The Extended Relational Model Approach. Semantic Database Approach, Object Oriented
+
+Programming Language Extension Approach, DBMS Generator Approach, the Object Definition Language and the Object Query Language.
+
+3.3       The Object Oriented DBMS Architecture, Performance Issue in Object Oriented DBMS, Application Selection for Object Oriented
+
+DBMS, the Database Design for an Object Relational DBMS. The Structured Typed and ADTs, Object identity, Extending the ER Model
+
+,Storage and Access Methods, Query Processing Query Optimization, Data Access API(ODBC,DB Library, DAO,ADO,JDBC,OLEDB), Distributed
+
+Computing Concept in COM, COBRA.
+
+Laboratory works: All distributed and OO database components mentioned in this course.
+
+(Practical implementation in Oracle 9i or Oracle 10g covering both Distributed and Object Oriented Database Features)
+
+Reference Book:      
+
+1.      Principles of Distributed Database Systems; Ozsu, M. Tamer and Patrick Valduriez. Pearson Education.
+2.      Object Oriented  Database System – Approaches and Architectures ; C.S.R. Prabhu, PHI
+3.      Silberschatz,Abraham, Henry F. Korth and S. Sudarshan:  Database System Concepts; McGrawHill International Edition.
+4.      Gerald V. Post: Database Management System – McGraw Hill International Edition.
+5.      Peter Rob, Carlos Coronnel: Database Systems – Design, Implementation and Management; Course Technology.
+6.      R.Cattel: "Object Data management",(1993),Addison-Wesley
+
+
+Prerequisite:              Relational Database Management System, SQL, Computer  Network , Object Oriented Programming Languages
+
+Homework
+
+Assignment:               Assignment should be given throughout the semester.
+
+
+
+
+                    Course Title: Cloud Computing                                                   
+
+Course No: CSC-458                                                                                 Full Marks: 60+20+20
+Credit Hours: 3                                                                                           Pass Marks: 24+8+8
+
+
+Nature of the course: Theory (3Hrs.) + Lab (3Hrs.)
+
+
+
+Course synopsis:  This course gives an introduction to cloud computing and its techniques. The  topics covered include; introduction to cloud
+
+computing, cloud architecture,  cloud service models, Service Oriented Architectures, security in cloud                                computing, disaster
+
+management in clouds.
+
+
+Goal: Cloud computing has become a great solution for providing a flexible, on-demand, and           dynamically scalable computing infrastructure
+
+for many applications. Cloud computing           also presents a significant technology trends, and it is already obvious that it is reshaping          
+
+information technology processes and the IT marketplace. Thus objective of this course is           to introduce the aspects of cloud computing
+
+issues.
+
+Course Contents:
+
+Unit1: Introduction                                                                                                   10 Hrs.
+Defining the Cloud, The Emergence of Cloud Computing, Cloud-Based Services, Grid Computing or Cloud Computing, Components of Cloud
+
+Computing, Cloud Computing Deployment Models: Public, Private, Hybrid, Benefits of Using a Cloud Model, Legal Issues in Using Cloud Models,
+
+Characteristics of Cloud Computing, Evolution of Cloud Computing, Challenges for the Cloud computing, Grid Computing, Distributed Computing in
+
+Grid and Cloud
+
+
+Unit2: Cloud Service Models                                                                                   15 Hrs.
+Communication-as-a-Service (CaaS): Advantages of CaaS, Fully Integrated, Enterprise-Class Unified Communications,  Infrastructure-as-a-
+
+Service (IaaS): Modern On-Demand Computing, Amazon’s Elastic Cloud, Amazon EC2 Service Characteristics, Monitoring-as-a-Service (MaaS),
+
+Protection Against Internal and External Threats, Platform-as-a-Service (PaaS): The Traditional On-Premises Model, The New Cloud Model, Key
+
+Characteristics of PaaS, Software-as-a-Service (SaaS): SaaS Implementation Issues, Key Characteristics of SaaS, Benefits of the SaaS Model,
+
+Jericho Cloud Cube Model
+
+Unit 3: Building Cloud Networks                                                                            9 Hrs.
+Evolution from Managed service providers (MSP) to Cloud Computing, Single Purpose architectures to multi-purpose architectures, Data center
+
+virtualization, Cloud data center, Service Oriented Architectures (SOA), Combining and SOA, Characterizing SOA, Open Source Software in
+
+data centers
+
+
+ Unit 5 : Security in Cloud Computing                                                                   11 Hrs.
+Cloud Security Challenges, Software-as-a-Service Security: Security management, Risk Management, Security Monitoring and Incident
+
+Response, Security Architecture Design, Vulnerability Assessment, Data Privacy and Security, Application Security, Virtual Machine Security,
+
+disaster Recovery, Disasters in cloud, Disaster management
+
+Laboratory work: As a part of lab work, the students are highly encouraged
+
+    To simulate the concept of virtualization using virtualization programs/systems.
+    To understand and practice examples of cloud services and applications.
+    To understand and implement distributed storage and security issues in cloud computing.
+
+
+Reference Books:
+
+    Cloud Computing: Implementation Management and Security, John W. Rittinghouse and James F. Ransome (Recommended for Unit 1, 2, 3 4)
+
+     Cloud Application architecture, George Reese (Recommended for Unit 4)
+
+    Cloud Computing for Dummies, Judith Hurwitz, Robin Bloor, Marcia Kaufman, Fern Halper(Recommended for Unit 3)
+
+    Handbook of cloud computing, Borko Furht, Armando Escalante (Recommended for Unit 1)
+    Cloud Computing and SOA Convergence in your Enterprise, a step by step guide, David S. Linthicum (Recommended for Unit 1, 2, 3)
+
+
+
+
+
+
+
+          Course Title: Geographical Information System
+
+
+Course no: CSC-459                                                                                   Full Marks: 60+20+20
+Credit hours: 3                                                                                              Pass Marks: 24+8+8
+
+Nature of course: Theory (3 Hrs.) + Lab (3 Hrs.)
+
+Course Synopsis: Basic concepts of Geographical Information System
+
+Goal:   The course covers about spatial data modelling and database design, capturing the real world, spatial analysis and visualization, overview
+
+of open GIS
+
+Course Contents:
+
+
+Unit 1: Introduction                                                                                                 6hrs.
+1.1  Overview, History and concepts of GIS
+1.2   Scope and  application areas of GIS
+1.3   Purpose and benefits of GIS
+1.4  Functional components of GIS
+1.5  Importance of GPS and remote sensing data in GIS
+
+Unit2:  Digital mapping concept                                                                            3 hrs.
+  2.1 Map concept: map elements, map layers, map scales and representation
+ 2.2 Map projection: coordinate system and projection system
+
+
+Unit 3: spatial data modeling and database design                                               9 hrs.
+3.1  introduction to geographic phenomena and data modeling
+3.2  spatial relationships and topology
+3.3  scale and resolution
+3.4   vector, raster and digital terrain model
+3.5  Spatial database design with the concepts of geodatabase.
+
+
+Unit 4: capturing the real world                                                                              8hrs.
+4.1  different methods of data capture
+4.2  map projection and spatial reference
+4.3  data preparation, conversion and integration
+4.4  quality aspects of spatial data
+4.5  GPS
+4.6  Remote Sensing
+
+Unit 5: spatial analysis and visualization                                                                 7hrs.
+5.1  spatial analysis
+      i.      overlay
+      ii.      buffering
+
+5.2  map outputs and its basic elements
+
+
+Unit 6: introduction to spatial data infrastructure                                                 8hrs.
+6.1  SDI concepts and its current trend
+6.2  The concept of metadata and clearing house
+6.3  Critical factors around SDIs
+
+
+Unit 7: Open GIS                                                                                                         4hrs.
+7.1  Introduction of open concept in GIS
+7.2  Open source software for spatial data analysis
+7.3  Web Based GIS system
+7.4  System Analysis and Design with GIS
+
+
+
+Laboratory work: The lab should cover at least the concepts given the chapters
+
+
+
+Reference books:
+
+
+1-      Principles of geographic information systems: An introductory textbook, international institute for Geo-information science and Earth
+
+observation, the Netherlands- By rolf De By, Richard A. knippers, yuxian sun
+
+2-      ESRI guide to GIS analysis Andy Mitchell, ESRI press, Red lands
+
+3-      GIS Cook BOOK
+
+
+
+
+
+
+
+                    Course Title: Decision Support System     
+
+
+Course No: CSC-460                                                                                  Full Marks: 60 + 20 +20
+Credit Hrs: 3                                                                                                Pass Marks: 20 + 8 + 8
+
+
+Nature of course: Theory (3 Hrs.) + Lab (3 Hrs.)
+
+Course Synopsis: This course covers introduction to decision support systems; DSS  components; Decision making; DSS software and hardware;
+
+developing DSS;     DSS models; types of DSS; data mining; artificial intelligence and expert                               Systems.
+
+Goal: The course is devoted to introduce decision support systems; show their relationship to
+           other computer-based information systems, demonstrate DSS development approaches,
+           and show students how to utilize DSS capacities to support different types of decisions.
+
+Course Contents:
+
+Unit 1: Decision Making and Computerized Support
+
+1.1. Management Support Systems: An Overview                                                    3 Hrs.
+Managers and Decision-Making; Managerial Decision-Making and Information Systems; Managers and Computer Support; Computerized Decision
+
+Support and the Supporting Technologies; A Framework for Decision Support; The Concept of Decision Support Systems; Group Support
+
+Systems; Enterprise Information Systems; Knowledge Management Systems; Expert Systems; Artificial Neural Networks; Advanced Intelligent
+
+Decision Support Systems; Hybrid Support Systems
+
+1.2. Decision-Making Systems, Modeling, and Support                                            5 Hrs.
+Decision-Making: Introduction and Definitions; Systems; Models; Phases of the Decision-Making Process; Decision-Making: The Intelligence
+
+Phase; Decision-Making: The Design Phase; Decision-Making: The Choice Phase; Decision-Making: The Implementation Phase; How Decisions Are
+
+Supported; Personality Types, Gender, Human Cognition, and Decision Styles; The Decision-Makers
+
+
+Unit 2: Decision Support Systems
+
+2.1. Decision Support Systems: An Overview                                                            3 Hrs.
+DSS Configurations; What Is a DSS?; Characteristics and Capabilities of DSS; Components of DSS; The Data Management Subsystem; The
+
+Model Management Subsystem; The User Interface (Dialog) Subsystem; The Knowledge-Based Management Subsystem; The User; DSS
+
+Hardware; DSS Classifications
+
+2.2. Modeling and Analysis                                                                                          4 Hrs.
+MSS Modeling; Static and Dynamic Models; Certainty, Uncertainty, and Risk; Influence Diagrams; MSS Modeling with Spreadsheets; Decision
+
+Analysis of a Few Alternatives (Decision Tables and Decision Trees); The Structure of MSS Mathematical Models; Mathematical Programming
+
+Optimization; Multiple Goals, Sensitivity Analysis, What-If, and Goal Seeking; Problem-Solving Search Methods; Heuristic Programming;
+
+Simulation; Visual Interactive Modeling and Visual Interactive Simulation; Quantitative Software Packages; Model Base Management
+
+2.3.Business Intelligence: Data Warehousing, Data Acquisition, Data Mining, Business Analytics, and Visualization         4 Hrs.
+The Nature and Sources of Data; Data Collection, Problems, and Quality; The Web/Internet and Commercial Database Services; Database
+
+Management Systems in Decision Support Systems/ Business Intelligence; Database Organization and Structures; Data Warehousing; Data
+
+Marts; Business Intelligence/Business Analytics; Online Analytical Processing (OLAP); Data Mining; Data Visualization, Multidimensionality, and
+
+Real-Time Analytics; Geographic Information Systems; Business Intelligence and the Web: Web Intelligence/Web Analytics
+
+2.4. Decision Support System Development                                                                                     3 Hrs.
+Introduction to DSS Development; The Traditional System Development Life Cycle; Alternative Development Methodologies; Prototyping: The
+
+DSS Development Methodology; Change Management; DSS Technology Levels and Tools; DSS Development Platforms; DSS Development Tool
+
+Selection; Team-Developed DSS; End User Developed DSS; Putting The DSS Together
+
+
+Unit 3: Knowledge Management
+3.1. Knowledge Management                                                                                       5 Hrs.
+Introduction to Knowledge Management; Organizational Learning and Transformation; Knowledge Management Initiatives; Approaches to
+
+Knowledge Management; Information Technology in Knowledge Management; Knowledge Management Systems Implementation; Roles of People in
+
+Knowledge Management; Ensuring Success of Knowledge Management
+
+
+Unit 4: Intelligent Decision Support Systems
+4.1. Artificial Intelligence and Expert Systems: Knowledge-Based Systems         5 Hrs.
+ Concepts and Definitions of Artificial Intelligence; Evolution of Artificial Intelligence; The Artificial Intelligence Field; Basic Concepts of
+
+Expert Systems; Applications of Expert Systems; Structure of Expert Systems; How Expert Systems Work; Problem Areas Suitable for Expert
+
+Systems; Benefits and Capabilities of Expert Systems; Problems and Limitations of Expert Systems; Expert System Success Factors; Types of
+
+Expert Systems; Expert Systems on the Web
+
+4.2. Knowledge Acquisition, Representation, and Reasoning                                  5 Hrs.
+Concepts of Knowledge Engineering; Scope and Types of Knowledge; Methods of Knowledge Acquisition from Experts; Knowledge Acquisition
+
+from Multiple Experts; Automated Knowledge Acquisition from Data and Documents; Knowledge Verification and Validation; Representation of
+
+Knowledge; Reasoning in Rule-Based Systems; Explanation and Metaknowledge; Inferencing with Uncertainty; Expert Systems Development;
+
+Knowledge Acquisition and the Internet
+
+4.3. Advanced Intelligent Systems                                                                              5 Hrs.
+Machine-Learning Techniques; Case-Based Reasoning; Basic Concept of Neural Computing; Learning in Artificial Neural Networks; Developing
+
+Neural Network-Based Systems; Genetic Algorithms Fundamentals; Developing Genetic Algorithm Applications; Fuzzy Logic Fundamentals;
+
+Developing Integrated Advanced Systems
+
+4.4. Intelligent Systems over the Internet                                                                3 Hrs.
+Web-Based Intelligent Systems; Intelligent Agents: An Overview; Characteristics of Agents; Why Intelligent Agents?; Classification and Types
+
+of Agents; Internet-Based Software Agents; DSS Agents and Multi-Agents; Semantic Web: Representing Knowledge for Intelligent Agents;
+
+Web-Based Recommendation Systems; Managerial Issues of Intelligent Agents
+
+Laboratory Work: The laboratory should contain the concepts of artificial intelligence that are
+                                 applicable to the development of decision support systems.
+
+
+
+Reference Books:
+
+1.      Decision Support Systems and Intelligent Systems, Seventh Edition, Efraim Turban, Jay E. Aronson, Richard V. McCarthy, Prentice-Hall of
+
+India, 2007
+2.      Decision Support Systems, A Knowledge-Based Approach, Clyde W. Holsapple andAndrew B. Whinston
+3.       Decision Support Systems For Business Intelligence by Vicki L. Sauter

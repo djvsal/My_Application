@@ -1,0 +1,17 @@
+https://www.udemy.com/the-art-of-real-ios-programming/#/
+http://prework.flatironschool.com/ios-development/
+https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+http://tryobjectivec.codeschool.com/levels/1/challenges/2
+http://www.raywenderlich.com/38557/learn-to-code-ios-apps-1-welcome-to-programming
+http://web.stanford.edu/class/cs193p/cgi-bin/drupal/
+https://itunes.apple.com/us/course/coding-together-developing/id593208016
+http://www.configure.it/
+http://stackoverflow.com/questions/13575037/what-are-resources-for-learning-objective-c
+http://web.stanford.edu/class/cs193p/cgi-bin/drupal/downloads-2010-fall
+http://www.quora.com/What-s-the-most-useful-class-at-Stanford
+cs106A and B
+http://web.stanford.edu/class/cs193p/cgi-bin/drupal/downloads-2010-fall
+Sketch App 
+https://www.appsee.com/blog/mobile-ui/collection-mobile-ui-design-tools-building-apps
+http://www.skilledup.com/articles/7-objective-c-courses-start-career-ios
+http://c.learncodethehardway.org/book/

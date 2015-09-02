@@ -1,0 +1,68 @@
+https://knowband-asset-bucket.s3.amazonaws.com/java/Conditional%20Statement.mp4
+
+Our game is nearly complete! We need to add some final logic to the update methods so that the ball doesn't bounce out of the map and so that we can control the Paddles using the pre-determined control scheme: the blue paddle uses A and D and the orange paddle uses Left and Right. Use what you have learnt about if statements to insert the correct logic into the update methods.
+
+Find the update method in the Ball class. In the last section we added functionality that allows the ball to move by adding the x velocity to x and the y velocity to y. We need to make sure the ball doesn't bounce out of the arena, so underneath the addition of velocities create an if statement:
+
+IF x is greater than arenaWidth OR x is less than 0:
+Call the method flipXVelocity.
+Examples:
+
+// Checking if greater than
+if(x > y) {} // x is greater than y
+
+//Checking if less than
+if(x < y) {} // x is less than y
+
+// Checking two conditions using OR
+if(bool1 || bool2) {} // bool1 OR bool2 is equal to true
+
+// Calling methods
+methodName();
+anotherMethod(param1, param2);
+
+    /* Spoiler */
+
+    if(x > arenaWidth || x < 0) {
+    flipXVelocity();
+    }
+/*Spoiler*/
+            
+Find the update method in the Paddle class. We are going to add logic that allows the paddle to move using the control scheme (mentioned above) and also prevents the paddle from leaving the bounds of the arena. There is some existing functionality that you will notice that controls the collision of the ball, feel free to take a look at it but its complexity is slightly out of the scope of this tutorial. Underneath the comment // Update paddle position; create two if statements:
+
+IF x is less than 0:
+Set xVel equal to 0 and set x equal to 0.
+IF x is greater than arenaWidth:
+Set xVel equal to 0 and set x equal to arenaWidth.
+This logic states that if the x coordinate of the paddle goes less than 0, i.e. it leaves the arena, set the velocity of x to 0, meaning it is no longer moving further out of the map and set the x coordinate back to 0, meaning we pull the paddle back into range of the arena. The same applies for the second if statement, but it does it for the other side of the arena. We need to add one more small piece of logic underneath the comment // Make paddle move. that allows the x coordinate to be updated based on the x velocity: Set the value of x equal to x plus xVel.
+
+Examples:
+
+// Checking if greater than
+if(x > y) {} // x is greater than y
+
+//Checking if less than
+if(x < y) {} // x is less than y
+
+// Setting variables
+x = y + 2;
+x = x + 1;
+
+    /* Spoiler */
+
+    public void update() {
+    if(x < 0) {
+    xVel = 0;
+    x = 0;
+    }
+    if(x > arenaWidth) {
+    xVel = 0;
+    x = arenaWidth;
+    }
+
+    x += xVel;
+
+    // Check for ball collision
+    
+    }
+/*Spoiler*//*Spoiler*/

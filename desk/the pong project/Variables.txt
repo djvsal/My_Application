@@ -1,0 +1,55 @@
+Example:
+
+public class MyClass {
+' Write Variable Code Here '
+// Methods down here
+public void method() {}
+}
+           
+
+The Ball class represents the bouncing ball for our Pong game. This class will contain the logic that allows the ball to bounce around the arena and collide with the paddles and walls. We will also make sure we keep track of the ball's position so we can judge when the ball should score a point for either player. The x and y variables will represent the position of the ball at any given time. We will use these two variables to calculate where the ball is and whether or not it is colliding with the walls or paddles. We will add a default value for x and y so that we can see the ball rendered to the screen ' this value will be changed later in the Methods section. xVel and yVel will represent the velocity of the ball at any given time. xVel will be added to x and yVel will be added to y every in-game frame. Adding the velocity to the coordinate will move the ball in the given direction. arenaWidth and arenaHeight represent the width and height of the game screen. We need these variables so we can tell if our x and y hit the walls of the arena. ballDiameter is the diameter of the in-game ball. Using this variable, we can make the ball bigger or smaller. Finally, ballColor repre class="code-snippet"sents the color of the ball. You can customize this if you want by simply initialising the variable to Color.*insert any colour name here*.
+
+Now, find the Public class Ball in the code, and set each variable to the value in the table below.
+
+Type	Name	Value
+float	x	200
+float	y	200
+float	xVel	None
+float	yvel	None
+int	arenaWidth	None
+int	arenaHeight	None
+int	ballDiameter	40
+Color	ballColor	Color.RED
+Syntax:'VariableType variableName = value;'
+int x = 20;
+int y; // You don't always have to assign a value
+Object obj1 = new Object();
+Object obj2 = new Object(param1, param2, param3);
+
+    /* Spoiler */
+
+    float x = 200;
+    float y = 200;
+    float xVel;
+    float yVel;
+    int arenaWidth;
+    int arenaHeight;
+    int ballDiameter = 40;
+    Color ballColor = Color.RED;
+/*Spoiler*/
+            
+The Paddle class represents the paddle for the players. We will create two instances of the Paddle; one for player 1 and another for player 2. Both paddles will work in the same way which is why we can use one class for both paddles. We will be tracking the position of the paddles so that we can detect collision between them and the ball. We will also be setting up movement controls for the paddle so that the InputListener can use them. You will also notice we declare a Ball object; later on we will be passing the instance of Ball to the Paddle in order to detect collision between the two. x, y and xVel work in the exact same way as they did for the Ball. The reason why we only have an x velocity for the paddle is because the paddle doesn't move up and down, it will only be moving left and right. Again, we will set a default value for x and y so that we can initially see them rendered to the screen ; this value will be overwritten later. paddleWidth and paddleHeight represent the width and height of the paddle : we can alter the in-game size of the paddle using these variables. paddleColor represents the colour of the paddle. These are set automatically in the Pong class so that we can tell the difference between paddle 1 and paddle 2.
+
+Now, find the Public class Paddle in the code, and set each variable to the value in the table below.
+
+Type	Name	Value
+float	x	400
+float	y	50
+float	xVel	0
+float	speed	0.4f
+int	paddleWidth	160
+int	paddleHeight	25
+Color	paddlColor	Color.BLUE
+Ball	ball	None
+int	arenaWidth	None
+int	arenaHeight	None

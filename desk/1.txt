@@ -1,0 +1,108 @@
+db.lcs.mit.edu/6.893/F04/ccandr.pdf<dbms>
+cgi.csc.liv.ac.uk/~valli/Comp302/<Advanced Database Technology>
+https://sites.google.com/site/advanceddbms/home/lecture-slides
+https://cs.uwaterloo.ca/~tozsu/courses/CS742/Course%20Notes/1-Introduction.pdf
+https://www.cs.duke.edu/courses/spring05/cps216/LectureNotes.html
+http://faculty.nipissingu.ca/haibinz/4406/
+A Beautiful Mind
+Into the Wild
+rudy
+
+– Atomicity („all or nothing” rule)
+– Consistency (only valid data in)
+– Isolation (order of executed transactions)
+– Durability (committed transaction will not be lost)
+
+oak.cs.ucla.edu/cs143/notes/transaction.pdf
+www.ida.liu.se/~TDDB38/2002/LectureOH/Le11.htm
+
+ion.uwinnipeg.ca/~ychen2/advancedDBNotes/
+
+http://www.codecademy.com/courses/web-beginner-en-f8mcL/0/1?curriculum_id=50579fb998b470000202dc8b
+ 
+
+webcache.googleusercontent.com/search?q=cache:hm2GtIWTuFkJ:www.cl.cam.ac.uk/teaching/0910/ConcDistS/08-DB-CControl-Rec.ppt+&cd=2&hl=en&ct=clnk&gl=np
+
+www.cburch.com/cs/340/reading/serial/index.html
+www.cs.ucy.ac.cy/~dzeina/courses/epl446/lectures/14.pdf
+hssl.cs.jhu.edu/~randal/416/lectures/  < Transaction Processing Systems>
+webspace.cs.odu.edu/~ibl/450/pdf/view-on-line/serial/serial3.pdf
+
+
+
+www.huffingtonpost.com/2014/10/23/the-half-has-never-been-told_n_6036840.html?ncid=fcbklnkushpmg00000063
+
+
+http://users.csc.calpoly.edu/~gfisher/classes/308/textbook/2.pdf
+.pdf
+http://users.csc.calpoly.edu/~gfisher/classes/308/lectures/< software engineering>
+
+http://webcache.googleusercontent.com/search?q=cache:QUn-O3Qg9PQJ:cse.stfx.ca/~mlin/cs485/lectures/SProcessModel.ppt+&cd=16&hl=en&ct=clnk&gl=np
+
+http://books.google.com.np/books?id=nrjvCeUDim0C&pg=PP21&dq=software+engineering+software+process+vs+software+process+model&hl=en&sa=X&ei=C21nVKWLOeHPmwXz74CQAg&ved=0CEEQ6AEwBw#v=onepage&q=software%20engineering%20software%20process%20vs%20software%20process%20model&f=false
+Ryon Cherry
+
+http://www.improgrammer.net/job-at-google/
+
+
+
+
+
+
+
+
+
+
+
+IPV6 Design and Capacity Development Workshop
+Duration: 3 Days
+Time: - 9:30 am to 5:00 PM
+Day1 Agenda
+• Introduction to IPv6
+• IPv6 Protocol Architecture
+• IPv6 Security Features
+• IPv6 Addressing and Sub-netting
+• IPv6 Host Configuration and Lab
+Day 2 Agenda
+• IPv6 Deployment IP address Plan- Case Study and Lab
+• IPv6 Deployment in IGP i.e. OSPv3- Case Study and Lab
+• IPv4 to IPv6 Transition Technologies and Tunneling Lab
+Day 3 Agenda
+• IPv6 Deployment in EGP i.e. MP-BGP- Case Study and Lab
+• IPv6 and DNS
+• Basic Internet Service Delivery using IPv6 Transport
+Respected Members,
+This is our immense pleasure to inform you that ISOC Nepal is organizing a workshop on "IPv6 Deployment' jointly with NPIX (Nepal Internet Exchange Point ). We hereby seek application for the participation. This is open call to all.
+a. Participants Total : 30[Thirty]
+b. Who can apply for the participation: The participants should have a basic understanding of network operations, Internet technologies, OSI reference model, TCP/IP and familiar with router operating system software (i.e. Cisco IOS etc.). It is also recommended that the participants should know IPv4 addressing and Routing.
+c. Venue: Indreni Foodland, New Baneswor.
+d. Date: 25-27 December, 2014
+e. Please send your application at info@isoc.org.np or drop the application physically at ISOC Nepal office [Anamnagar].
+For further details please contact Subhash Pandey [9851017633] or Sarita Khanal (Phone: 4245841/4243071
+
+
+https://class.coursera.org/compilers/lecture
+
+
+http://csperkins.org/teaching/rtes/
+http://csperkins.org/teaching/rtes/lecture03.pdf
+
+Generate an Additional Credit Card Number for a Sandbox account
+https://ppmts.custhelp.com/app/answers/detail/a_id/750/
+https://www.youtube.com/watch?v=Op0aJYCBu7A
+
+
+
+
+
+
+
+
+ 
+
+
+
+  
+
+
+

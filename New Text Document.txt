@@ -1,0 +1,47 @@
+current location current lattitude
+http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/mvc.html
+Building a Note-Taking App for Android
+http://explore.appinventor.mit.edu/ai2/tutorials?field_tutorial_type_tid%5B%5D=67
+https://www.youtube.com/playlist?list=PLDnfZWn9yJ28hcIS1Lo_5QJzEEp7_HQy3
+http://college.usatoday.com/2015/05/20/no-internship-no-problem-6-ways-to-make-the-most-of-your-summer/
+http://www.bloomberg.com/bw/articles/2012-04-11/no-internship-dont-throw-in-the-towel
+http://www.mybringback.com/series/android-basics/page/3/
+http://www.androidhive.info/2014/12/how-to-play-youtube-video-in-android-app/
+http://www.slideshare.net/keithics/android-development-note-taking-app-from-scratch
+http://www.androidhive.info/2015/02/android-location-api-using-google-play-services/
+http://www.androidhive.info/2013/07/how-to-implement-android-splash-screen-2/
+android note taking app tutorial
+
+import android.support.v7.app.ActionBarActivity;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+
+public class MainActivity extends ActionBarActivity implements ConnectionCallbacks,
+OnConnectionFailedListener {
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+	}
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.main, menu);
+		return true;
+	}
+
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) {
+		// Handle action bar item clicks here. The action bar will
+		// automatically handle clicks on the Home/Up button, so long
+		// as you specify a parent activity in AndroidManifest.xml.
+		int id = item.getItemId();
+		if (id == R.id.action_settings) {
+			return true;
+		}
+		return super.onOptionsItemSelected(item);
+	}
+}
